@@ -1,7 +1,7 @@
 {
-  "name": "shorturl",
+  "name": "URL Shortener Microservice",
   "version": "0.0.3",
-  "description": "API project for freeCodeCamp",
+  "description": "Shortens url and stores related information in an array within the app. Does not use any database currently.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
